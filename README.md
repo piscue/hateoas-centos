@@ -2,4 +2,4 @@
 
 A Dockerized example of hateoas Spring Boot example
 
-docker hub enabled: https://hub.docker.com/r/piscue/hateoas-centos/
+Docker hub enabled: https://store.docker.com/community/images/piscue/hateoas-centos
