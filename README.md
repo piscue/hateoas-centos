@@ -2,4 +2,4 @@
 
 A Dockerized example of hateoas Spring Boot example
 
-docker hub enabled
+docker hub enabled, check
